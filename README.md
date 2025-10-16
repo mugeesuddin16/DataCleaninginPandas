@@ -62,3 +62,7 @@ Mugees Uddin Farooq
 
 💻 [Kaggle Portfolio](https://www.kaggle.com/mugeesuddinfarooq)
 
+⭐ Support
+---
+If you found this project helpful, please star ⭐ the repo to support and help others discover it!
+
