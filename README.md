@@ -32,7 +32,9 @@ This project walks through practical examples of cleaning real-world datasets �
 ---
 Tool	Purpose
 Python 3.x - Core programming language
+
 Pandas - Data cleaning, wrangling, and transformation
+
 Jupyter Notebook -	Interactive data exploration
 
  📂 Project Structure
@@ -43,7 +45,7 @@ Jupyter Notebook -	Interactive data exploration
  
  ┣ 📂 data/                      # Raw sample datasets
  
- ┣ 📂 cleaned_data/              # Output after cleaning
+ ┣ 📂 cleaned_data               # Output after cleaning
  
  ┣ 📜 .gitignore                 # .gitignore
  
